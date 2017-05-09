@@ -1,0 +1,1 @@
+export const HASH_TAG_REGEX = /\B#\w*[a-zA-Z]+\w*/gi
